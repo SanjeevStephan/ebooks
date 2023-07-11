@@ -1,6 +1,9 @@
 # ebooks
 Collections of (epub) ebooks from My Calibre Library
 
+## Download (epub & pdf) Ebooks 
+1. [oceanofpdf](https://oceanofpdf.com/) 
+
 # Setup
 ## Window
 1. Run the Beow command in the terminal to search for the Calibre Package
