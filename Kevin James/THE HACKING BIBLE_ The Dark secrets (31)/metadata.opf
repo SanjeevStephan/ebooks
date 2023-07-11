@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">457d4063-fc6d-4558-a9dd-5a70bb521421</dc:identifier>
+        <dc:title>THE HACKING BIBLE: The Dark secrets of the hacking world: How you can become a Hacking Monster, Undetected and in the best way</dc:title>
+        <dc:creator opf:file-as="James, Kevin" opf:role="aut">Kevin James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-26T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B014LM7TI8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hacking (PDF)</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-11T10:07:55.505803+00:00"/>
+        <meta name="calibre:title_sort" content="HACKING BIBLE: The Dark secrets of the hacking world: How you can become a Hacking Monster, Undetected and in the best way, THE"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
