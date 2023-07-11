@@ -21,7 +21,7 @@ apt search calibre
 ## Linux
 1. Run the Beow command in the terminal to search for the Calibre Package
 ```
-winget search calibre
+apt search calibre
 ```
 2. Install the Package by executing below command
 ```
