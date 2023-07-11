@@ -3,7 +3,7 @@ Collections of (epub) ebooks from My Calibre Library
 
 ## Download (epub & pdf) Ebooks 
 1. [oceanofpdf](https://oceanofpdf.com/) - OceanofPDF is the most popular website for e-books. This website provides 100% free e-books without any ads, popups, registration, or login requirements.
-2. [pdfroom](https://pdfroom.com/) PDF Room is a search engine PDF books.
+2. [pdfroom](https://pdfroom.com/) PDF Room is a search engine for PDF books.
 
 # Setup
 ## Window
