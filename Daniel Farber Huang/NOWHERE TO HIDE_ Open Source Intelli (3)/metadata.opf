@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3de739d0-a5a2-4d2a-8005-df059b0ecbc7</dc:identifier>
+        <dc:title>NOWHERE TO HIDE: Open Source Intelligence Gathering - CASEBOOK: How the FBI, Media, and Public Identiified the January 6, 2021 U.S. Capitol Rioters</dc:title>
+        <dc:creator opf:file-as="Huang, Daniel Farber" opf:role="aut">Daniel Farber Huang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-31T00:00:00+00:00</dc:date>
+        <dc:publisher>#PrB.rating#0.0</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B091KDQH4V</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B091KDQH4V</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">6579085002</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57777271</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>OSINT</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-08T09:27:17+00:00"/>
+        <meta name="calibre:title_sort" content="NOWHERE TO HIDE: Open Source Intelligence Gathering - CASEBOOK: How the FBI, Media, and Public Identiified the January 6, 2021 U.S. Capitol Rioters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3165e2d-dfbc-46d1-8c4f-ba7c4bd46923</dc:identifier>
+        <dc:title>Sapiens: A Brief History of Humankind</dc:title>
+        <dc:creator opf:file-as="Harari, Yuval Noah" opf:role="aut">Yuval Noah Harari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-28T07:00:00+00:00</dc:date>
+        <dc:publisher>Signal</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-10T00:14:16+00:00"/>
+        <meta name="calibre:title_sort" content="Sapiens: A Brief History of Humankind"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;removed&quot;: true, &quot;timestamp&quot;: &quot;2023-07-10T06:09:09.166Z&quot;, &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;apH-JuI51zFcJ4iRjiVz0w&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

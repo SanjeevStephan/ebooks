@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd4e3260-a6cd-4f51-8438-35bd309821bb</dc:identifier>
+        <dc:title>Social Engineering: The Science of Human Hacking</dc:title>
+        <dc:creator opf:file-as="Hadnagy, Christopher" opf:role="aut">Christopher Hadnagy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Harden the human firewall against the most current threats&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;i&gt;Social Engineering: The Science of Human Hacking&lt;/i&gt; reveals the craftier side of the hacker&amp;rsquo;s repertoire&amp;mdash;why hack into something when you could just ask for access? Undetectable by firewalls and antivirus software, social engineering relies on human fault to gain access to sensitive spaces; in this book, renowned expert Christopher Hadnagy explains the most commonly-used techniques that fool even the most robust security personnel, and shows you how these techniques have been used in the past. The way that we make decisions as humans affects everything from our emotions to our security. Hackers, since the beginning of time, have figured out ways to exploit that decision making process and get you to take an action not in your best interest. This new Second Edition has been updated with the most current methods used by sharing stories, examples, and scientific study behind how those...</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119433750</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hacking</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-08T09:34:14+00:00"/>
+        <meta name="calibre:title_sort" content="Social Engineering: The Science of Human Hacking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

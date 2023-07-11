@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">530649c9-4d04-46b4-b389-546c80979516</dc:identifier>
+        <dc:title>PowerShell: The Ultimate Beginners Guide to Learn PowerShell Step-by-Step</dc:title>
+        <dc:creator opf:file-as="Reed, Mark" opf:role="aut">Reed, Mark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-19T18:30:00+00:00</dc:date>
+        <dc:publisher>Publishing Factory</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scripting</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-10T16:24:29+00:00"/>
+        <meta name="calibre:title_sort" content="PowerShell: The Ultimate Beginners Guide to Learn PowerShell Step-by-Step"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
