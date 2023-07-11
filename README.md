@@ -25,5 +25,5 @@ apt search calibre
 ```
 2. Install the Package by executing below command
 ```
-apt install calibre
+apt install calibre -y
 ```
