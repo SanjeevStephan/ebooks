@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a03e151-4f78-41cb-aeec-a540793b9b35</dc:identifier>
+        <dc:title>Personal Digital Security - PDFDrive.com</dc:title>
+        <dc:creator opf:file-as="Bazzell, Michael" opf:role="aut">Bazzell, Michael</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-26T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00E6RQRHS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hacking (PDF)</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-11T09:52:52+00:00"/>
+        <meta name="calibre:title_sort" content="Personal Digital Security"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
