@@ -16,5 +16,14 @@ calibre portable calibre.calibre.portable 6.22.0  Tag: calibre winget
 ```
 2. Install the Package by executing below command
 ```
-winget install --id calibre.calibre --source winget
+apt search calibre
+```
+## Linux
+1. Run the Beow command in the terminal to search for the Calibre Package
+```
+winget search calibre
+```
+2. Install the Package by executing below command
+```
+apt install calibre
 ```
