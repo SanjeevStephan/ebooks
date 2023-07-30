@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aef995a7-33ed-4d0d-af9d-e368405f25dc</dc:identifier>
+        <dc:title>Machine Learning: Step-by-Step Guide To Implement Machine Learning Algorithms with Python</dc:title>
+        <dc:creator opf:file-as="Russell, Rudolph" opf:role="aut">Rudolph Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-20T18:30:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07D7J39FM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-30T04:37:05.336482+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning: Step-by-Step Guide To Implement Machine Learning Algorithms with Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

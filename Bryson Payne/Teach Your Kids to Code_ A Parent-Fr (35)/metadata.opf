@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdc8c530-8510-4fbf-a11d-67e5cb7a4df2</dc:identifier>
+        <dc:title>Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming</dc:title>
+        <dc:creator opf:file-as="Payne, Bryson" opf:role="aut">Bryson Payne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-21T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;Teach Your Kids to Code&lt;/i&gt; is a parent and teacher’s guide to teaching basic programming and problem-solving skills.&lt;/p&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593276812</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00WJ049XI</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>JUVENILE NONFICTION / Computers / Programming</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-30T04:37:11.799977+00:00"/>
+        <meta name="calibre:title_sort" content="Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
