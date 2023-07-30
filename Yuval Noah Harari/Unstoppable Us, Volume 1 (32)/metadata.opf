@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30069818-456b-40ca-953d-094fe2def9a5</dc:identifier>
+        <dc:title>Unstoppable Us, Volume 1</dc:title>
+        <dc:creator opf:file-as="Harari, Yuval Noah" opf:role="aut">Yuval Noah Harari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From world-renowned historian and philosopher Yuval Noah Harari, the &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;Sapiens&lt;/i&gt;, comes an exciting, brand-new illustrated book for middle-grade readers that looks at the early history of humankind.&lt;br&gt;&lt;/b&gt;&lt;br&gt; Even though we&amp;rsquo;ll never outrun a hungry lion or outswim an angry shark, humans are pretty impressive&amp;mdash;and we&amp;rsquo;re the most dominant species on the planet. So how exactly did we become &amp;ldquo;unstoppable&amp;rdquo;?&lt;br&gt; The answer to that is one of the strangest tales you&amp;rsquo;ll ever hear. And it&amp;rsquo;s a true story.&lt;br&gt; From learning to make fire and using the stars as guides to cooking meals in microwaves and landing on the moon, prepare to uncover the secrets and superpowers of how we evolved from our first appearances millions of years ago.&lt;br&gt; Acclaimed author Yuval Noah Harari has expertly crafted an extraordinary story of how humans learned to not only survive but also thrive on Earth, complete with maps,...</dc:description>
+        <dc:publisher>Random House Children's Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-30T04:36:13.305985+00:00"/>
+        <meta name="calibre:title_sort" content="Unstoppable Us, Volume 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
